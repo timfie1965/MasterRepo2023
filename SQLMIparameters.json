@@ -88,7 +88,7 @@
             "value": "sqladmin"
         },
         "administratorLoginPassword": {
-            "value": null
+            "value": SqlPassAdmin2023!
         }
     }
 }
